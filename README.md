@@ -1,9 +1,17 @@
-# Cartao-de-Credito-JavaScript
+# Validador de Cartão de Crédito em JavaScript
 
-Verificar se o cartão de crédito é valido ou invalido
+Este projeto é um validador de cartão de crédito desenvolvido em JavaScript. Ele utiliza o algoritmo de Luhn para verificar a validade de números de cartões de crédito.
 
-Armazernar em arrays os cartões validos e invalidos 
+## Descrição
 
-Verificar quais empresas lançaram cartões invalidos
+O objetivo deste projeto é fornecer uma ferramenta simples para validar números de cartões de crédito. O algoritmo de Luhn é usado para verificar se um número de cartão de crédito é válido ou inválido.
 
-**Desafio proposto no curso da CodeAcademy**
+## Recursos
+
+- Validação de números de cartões de crédito utilizando o algoritmo de Luhn.
+- Verificação de múltiplos cartões de crédito de uma só vez.
+- Identificação e separação de cartões válidos e inválidos.
+
+## Tecnologia
+
+> JavaScript
